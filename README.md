@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archcharles
-- 👀 I’m interested in child rights protection, travelling, and boxing.
-- 🌱 I’m currently learning front-end & back-end development
-- 💞️ I’m looking to collaborate on data structure algorithm.
+- 👀 I’m interested in child rights protection, travelling, boxing, & i've found a new love in app & web development.
+- 🌱 I’m currently learning front-end & back-end development.
+- 💞️ I’m looking to collaborate on full-stack web developmenet.
 - 📫 How to reach me: email
 
 <!---
